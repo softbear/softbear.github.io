@@ -1,5 +1,5 @@
 html {
-  height: 50%;
+  height: 70%;
   box-sizing: border-box;
 }
 
@@ -12,7 +12,7 @@ html {
 body {
   position: relative;
   margin: 60px auto;
-  padding-bottom: 6rem;
+  padding-bottom: 4rem;
   min-height: 100%;
   width: 90%;
   font-family: "Helvetica Neue", Arial, sans-serif;
