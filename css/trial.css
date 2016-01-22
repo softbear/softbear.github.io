@@ -12,12 +12,23 @@ html {
 
 body {
   position: relative;
-  margin: 0;
+  margin: 60px auto;
   padding-bottom: 6rem;
   min-height: 100%;
+  width: 70%;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
+nav ul, ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, ul li {
+    display: inline;
+    margin-right: 20px;
+}
 .demo {
   margin: 0 auto;
   padding-top: 64px;
